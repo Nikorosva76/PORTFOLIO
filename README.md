@@ -121,17 +121,8 @@
 - **Python** (чат-боты, интеграции, оркестрация)
 - **Make (Integromat)** (автоматизации, маршрутизация, обработка входов)
 - **RAG / Knowledge Base** (прайсы/каталоги, персональные данные, эталонные тексты)
-- **Интеграции:** 1С:CRM, Google Calendar, email, Telegram, виджет на сайте, Avito
+- **Интеграции:** 1С:CRM, **Bitrix**, **Amo**, **TalkMe**, Google Calendar, email, Telegram, виджет на сайте, Avito
 - **Практики:** structured outputs, сценарии диалога, нормализация входов, устойчивость к неполным данным
-
-
-
-
-
-
-
-
-
 
 
 ### 📊 Предиктивная аналитика  
@@ -155,25 +146,9 @@
 `OpenAI API`, `Agent SDK`, `RAG`, `NLP`, `Deep Learning`
 
 ---
-
-## 📁 Портфолио
-
-- 📄 [Классификатор документов (CNN + OCR)](https://github.com/Nikorosva76/Docs-classification)  
-- 🤖 AI-ассистенты для бизнеса (NLP, аналитика, суммаризация):
-  
-      1. Виджет https://github.com/Nikorosva76/AI_assistant-for-widget (Выпускной проект Zerocoder)
-  
-      2. Виджет https://kofcheg.ru/ (Коммерческий проект)
-  
-      3. Виджет https://kvalli.ru/ (Коммерческий проект)
-  
-- 📈 Прогноз онлайн-заказов (Time Series + ML)
-
----
-
 ## 📬 Контакты
 
-📧 [AndyYand123@yandex.ru](mailto:AndyYand123@yandex.ru)  
+📧 [AndyYand123@yandex.ru](mailto:SorokAndy@yandex.ru)  
 📍 Санкт-Петербург, РФ  
 🔗 Telegram: `@Sorok_Andy`
 
